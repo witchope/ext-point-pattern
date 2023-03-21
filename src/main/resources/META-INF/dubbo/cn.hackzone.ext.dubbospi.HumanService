@@ -1,0 +1,2 @@
+maleHumanService=cn.hackzone.ext.dubbospi.impl.MaleHumanServiceImpl
+femaleHumanService=cn.hackzone.ext.dubbospi.impl.FemaleHumanServiceImpl
